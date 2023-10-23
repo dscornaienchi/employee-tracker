@@ -1,5 +1,6 @@
-const inquirer = require('inquirer');
-const { getAllDepartments, getAllRoles, getAllEmployees } = require('./db/queries');
+import inquirer from 'inquirer';
+import { getAllDepartments, getAllRoles, getAllEmployees } from './db/queries.js';
+
 
 async function mainMenu() {
     const { action } = await inquirer.prompt({

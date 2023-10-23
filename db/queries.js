@@ -1,4 +1,4 @@
-const db = require('./db');
+import db from './db.js';
 
 async function getAllDepartments() {
     const [rows] = await db.query('SELECT * FROM department');
@@ -14,3 +14,5 @@ async function getAllEmployees() {
     const [rows] = await db.query('SELECT * FROM employee');
     return rows;
 }
+
+export { getAllDepartments, getAllRoles, getAllEmployees};
