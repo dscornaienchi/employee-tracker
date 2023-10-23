@@ -17,6 +17,8 @@ The Github repository can be found here: https://github.com/dscornaienchi/employ
 
 A walkthrough video can be found here: 
 
+A screenshot of the application in use can be seen here: 
+
 
 ## Credits
 
