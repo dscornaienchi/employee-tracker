@@ -15,9 +15,7 @@ The code included in this repository is used to view and manage the departments,
 
 The Github repository can be found here: https://github.com/dscornaienchi/employee-tracker
 
-A walkthrough video can be found here: 
-
-A screenshot of the application in use can be seen here: 
+A walkthrough video can be found here: https://drive.google.com/file/d/1-Q0p61Hx4WB3Ci1-70A9YW1gIPVul10S/view?usp=sharing 
 
 
 ## Credits
